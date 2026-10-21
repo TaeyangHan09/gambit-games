@@ -1,0 +1,42 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/cCBwviLI"]
+[Date "2026.10.21"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "MinibruteforceBot"]
+[Result "1-0"]
+[GameId "cCBwviLI"]
+[UTCDate "2026.10.21"]
+[UTCTime "15:23:09"]
+[WhiteElo "2214"]
+[BlackElo "2038"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Normal Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:03:00] } ( 1. e4 e5 2. Nf3 Nf6 3. Nxe5 { [%eval 0.23,16] } )
+1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:54] } ( 2. Nf3 Nc6 3. Bb5 Nf6 4.
+O-O a6 5. Bxc6 dxc6 6. Nxe5 Bc5 7. c3 Bd6 8. d4 O-O 9. Nd2 Be6
+{ [%eval 0.26,16] } ) 2... Nc6 { [%clk 0:03:00] } 3. Bb5 { [%clk 0:02:51] } (
+3. Bb5 Nf6 4. O-O a6 5. Bxc6 dxc6 6. Nxe5 Bc5 7. d3 O-O 8. Bf4 Be6 9. Nc3 Re8
+10. Qe2 Qd4 { [%eval 0.24,16] } ) 3... a6 { [%clk 0:02:59] } 4. Bxc6
+{ [%clk 0:02:47] } ( 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 Nf6 8. Qb3 Qc8
+9. Nc3 Be7 10. d3 O-O 11. Be3 Rd8 12. a4 { [%eval 0.44,17] } ) 4... dxc6
+{ [%clk 0:02:59] } 5. O-O { [%clk 0:02:46] } ( 5. O-O Bg4 6. h3 Bxf3 7. Qxf3
+Nf6 8. d3 Bd6 9. Nc3 O-O 10. Bg5 Bc5 11. a4 h6 12. Bxf6 Qxf6
+{ [%eval 0.27,16] } ) 5... Qf6 { [%clk 0:02:55] } 6. d4 { [%clk 0:02:44] } ( 6.
+d4 exd4 7. Bg5 { [%eval 0.35,15] } ) 6... exd4 { [%clk 0:02:54] } 7. Bg5
+{ [%clk 0:02:42] } ( 7. Bg5 Qd6 8. Qxd4 Qxd4 9. Nxd4 Be7 10. Bf4 Nf6 11. Nc3
+Bc5 12. Nb3 Bb6 13. Be5 O-O 14. Bxf6 gxf6 { [%eval 0.45,16] } ) 7... Qg6
+{ [%clk 0:02:55] } 8. Qxd4 { [%clk 0:02:40] } ( 8. Qxd4 Bd6 9. Bh4 Ne7 10. e5
+Nf5 11. Qc3 Bf8 12. Nbd2 Be6 13. Rfe1 h6 14. Re4 Nxh4 15. Rxh4
+{ [%eval 0.49,15] } ) 8... Bd6 { [%clk 0:02:55] } 9. Bh4 { [%clk 0:02:35] } (
+9. Bh4 Ne7 10. e5 Nf5 11. Qc3 Bf8 12. Rd1 Be6 13. Nbd2 Nxh4 14. Nxh4 Qg4 15.
+Ndf3 Rd8 { [%eval 0.29,14] } ) 1-0
+
