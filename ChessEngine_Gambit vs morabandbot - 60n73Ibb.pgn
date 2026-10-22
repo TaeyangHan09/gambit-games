@@ -1,0 +1,40 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/60n73Ibb"]
+[Date "2026.10.22"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "morabandbot"]
+[Result "1-0"]
+[GameId "60n73Ibb"]
+[UTCDate "2026.10.22"]
+[UTCTime "17:49:40"]
+[WhiteElo "2210"]
+[BlackElo "2327"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. d4 { [%clk 0:03:02] }
+2... d5 { [%clk 0:03:02] } 3. Nc3 { [%clk 0:03:04] } 3... dxe4
+{ [%clk 0:03:04] } 4. Nxe4 { [%clk 0:03:05] } 4... Nd7 { [%clk 0:03:06] } 5.
+Nf3 { [%clk 0:03:07] } 5... Ngf6 { [%clk 0:03:08] } 6. Nxf6+ { [%clk 0:03:09] }
+6... Nxf6 { [%clk 0:03:09] } 7. Bd3 { [%clk 0:03:11] } 7... Bd6
+{ [%clk 0:03:07] } 8. a3 { [%clk 0:03:03] } ( 8. a3 O-O 9. O-O c5 10. dxc5 Bxc5
+11. b4 Bb6 12. Bf4 Nd5 13. Bg3 Bd7 14. c4 Nf6 15. c5 Bc7 { [%eval 0.37,16] } )
+8... O-O { [%clk 0:03:05] } 9. O-O { [%clk 0:03:01] } ( 9. O-O c5 10. dxc5 Bxc5
+11. b4 Bb6 12. Bb2 a5 13. Qd2 Bd7 14. Ne5 a4 15. Nxd7 Qxd7 16. Bxf6 gxf6
+{ [%eval 0.39,16] } ) 9... b6 { [%clk 0:02:55] } 10. Qe2 { [%clk 0:02:55] } (
+10. Qe2 Bb7 11. Rd1 h6 12. Bd2 a5 13. h3 a4 14. Ne5 Be7 15. Bc3 Qd5 16. f3 Rfd8
+17. Qe3 { [%eval 0.35,15] } ) 10... Bb7 { [%clk 0:02:46] } 11. Rd1
+{ [%clk 0:02:49] } ( 11. Rd1 Qe7 12. Ne5 c5 13. dxc5 Bxc5 14. b4 Bd6 15. Nc4
+Bc7 16. Bb2 a5 17. b5 Rad8 18. Be5 { [%eval 0.25,15] } ) 11... h6
+{ [%clk 0:02:34] } 12. Ne5 { [%clk 0:02:41] } ( 12. Ne5 Rc8 13. h3 c5 14. dxc5
+Rxc5 15. Nc4 Rd5 16. Nxd6 Qxd6 17. Qe3 Rd8 18. Bd2 Qc5 19. Qxc5 Rxc5
+{ [%eval 0.30,16] } ) 1-0
+
