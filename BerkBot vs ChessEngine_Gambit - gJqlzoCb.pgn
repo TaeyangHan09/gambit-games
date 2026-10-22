@@ -1,0 +1,320 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/gJqlzoCb"]
+[Date "2026.10.22"]
+[Round "-"]
+[White "BerkBot"]
+[Black "ChessEngine_Gambit"]
+[Result "0-1"]
+[GameId "gJqlzoCb"]
+[UTCDate "2026.10.22"]
+[UTCTime "18:13:40"]
+[WhiteElo "2142"]
+[BlackElo "2214"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "A45"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:03:02] }
+2... d5 { [%clk 0:03:02] } 3. Nf3 { [%clk 0:03:04] } 3... Bf5
+{ [%clk 0:03:04] } 4. Bf4 { [%clk 0:03:06] } 4... e6 { [%clk 0:03:05] } 5. e3
+{ [%clk 0:02:58] } 5... Bd6 { [%clk 0:03:07] } 6. Bb5+ { [%clk 0:02:50] } 6...
+Nbd7 { [%clk 0:03:05] } ( 6... Nbd7 7. O-O Bxf4 8. exf4 O-O 9. Re1 Ne4 10. Nxe4
+dxe4 11. Ne5 Nxe5 12. fxe5 a6 13. Bc4 b5 14. Bb3 { [%eval 0.11,16] } ) 7. Bxd6
+{ [%clk 0:02:42] } 7... cxd6 { [%clk 0:03:02] } ( 7... cxd6 8. O-O Rc8 9. Nh4
+Bg6 10. Nxg6 hxg6 11. Qf3 a6 12. Bd3 Qb6 13. Rab1 a5 14. Qg3 Rh5 15. a4 e5
+{ [%eval -0.10,17] } ) 8. O-O { [%clk 0:02:35] } 8... Rc8 { [%clk 0:02:54] } (
+8... Rc8 9. a4 Ne4 10. Ra3 O-O 11. Rb3 Ndf6 12. Bd3 Nxc3 13. bxc3 Bxd3 14. Qxd3
+Rc7 15. Rfb1 Qd7 16. a5 Ne4 { [%eval -0.07,17] } ) 9. Bd3 { [%clk 0:02:29] }
+9... Be4 { [%clk 0:02:50] } ( 9... Be4 10. a4 O-O 11. a5 a6 12. Ra4 Qc7 13. Nd2
+Bxd3 { [%eval -0.01,17] } ) 10. a4 { [%clk 0:02:22] } 10... a6
+{ [%clk 0:02:42] } ( 10... a6 11. a5 O-O 12. Ra4 Qc7 13. Qe2 Bxd3 14. cxd3 Qc6
+15. Rb4 h6 16. e4 dxe4 17. dxe4 d5 { [%eval -0.02,17] } ) 11. Ng5
+{ [%clk 0:02:16] } 11... Bxd3 { [%clk 0:02:38] } ( 11... Bxd3 12. cxd3 O-O 13.
+Nf3 Qb6 14. Qd2 e5 15. a5 Qb4 16. Ra4 Qb3 17. Ra3 Qb4 18. Ra4 Qb3 19. Ra3 Qb4
+20. Ra4 { [%eval 0.00,18] } ) 12. cxd3 { [%clk 0:02:10] } 12... O-O
+{ [%clk 0:02:30] } ( 12... Qb6 13. Qd2 O-O 14. a5 Qb4 15. Ra4 Qb3 16. Ra3 Qb4
+17. Ra4 Qb3 18. Ra3 Qb4 19. Ra4 Qb3 20. Ra3 { [%eval 0.00,16] } ) 13. Qb3
+{ [%clk 0:02:05] } 13... Rc6 { [%clk 0:02:29] } ( 13... Rc6 14. Ra3 Qc7 15. Nf3
+Rb6 16. Qc2 Rc8 17. Rc1 e5 18. Rb3 h6 19. h3 Rxb3 20. Qxb3 e4 21. dxe4
+{ [%eval -0.05,16] } ) 14. Nf3 { [%clk 0:02:00] } 14... h6 { [%clk 0:02:25] } (
+14... h6 15. Ra3 Qc7 16. Rc1 Rc8 17. Qc2 Qa5 18. Rb3 Rb6 19. Rxb6 Qxb6 20. e4
+dxe4 21. dxe4 e5 22. Qd2 { [%eval -0.05,16] } ) 15. Rac1 { [%clk 0:01:55] }
+15... Qc7 { [%clk 0:02:20] } ( 15... Qc7 16. Rfe1 Rc8 17. e4 Qb6 18. Qa3 dxe4
+19. a5 { [%eval -0.10,18] } ) 16. Rfe1 { [%clk 0:01:50] } 16... Rc8
+{ [%clk 0:02:19] } ( 16... Rc8 17. h3 Qb6 18. Qxb6 Nxb6 19. Rcd1 a5 20. g3 Kh7
+21. Rf1 g6 22. e4 dxe4 23. dxe4 Rc4 24. e5 Nfd5 { [%eval -0.16,17] } ) 17. Qc2
+{ [%clk 0:01:46] } 17... Qa5 { [%clk 0:02:15] } ( 17... Qa5 18. Ra1 e5 19. Qd2
+Re8 20. e4 dxe4 { [%eval -0.15,16] } ) 18. Qd2 { [%clk 0:01:41] } 18... b5
+{ [%clk 0:02:10] } ( 18... b5 19. axb5 axb5 20. Ra1 Qb6 21. Ne2 b4 22. Rec1
+Rxc1+ 23. Rxc1 Ra8 24. h3 e5 25. Ng3 e4 26. dxe4 { [%eval -0.12,16] } ) 19.
+axb5 { [%clk 0:01:37] } 19... axb5 { [%clk 0:02:06] } ( 19... axb5 20. Ra1 Qb6
+21. Na2 Qb7 22. Nb4 R6c7 23. Ra5 Ra8 24. Rxa8+ Qxa8 25. Rc1 Rxc1+ 26. Qxc1 e5
+27. h3 Qe8 28. dxe5 dxe5 29. Qc2 { [%eval 0.10,20] } ) 20. Ra1
+{ [%clk 0:01:33] } 20... Qb6 { [%clk 0:02:04] } ( 20... Qb6 21. Na2 Qb7 22. Nb4
+R6c7 23. Ra5 Ra8 24. Rxa8+ Qxa8 25. Rc1 Rxc1+ 26. Qxc1 e5 27. h3
+{ [%eval 0.04,19] } ) 21. Ne2 { [%clk 0:01:30] } 21... b4 { [%clk 0:02:02] } (
+21... b4 22. Rec1 Rxc1+ 23. Nxc1 Nb8 24. Ne2 Qb7 25. Ng3 b3 26. Rc1 Rxc1+ 27.
+Qxc1 Qc6 28. Qxc6 Nxc6 29. e4 e5 { [%eval -0.09,17] } ) 22. Rec1
+{ [%clk 0:01:26] } 22... Rxc1+ { [%clk 0:02:00] } ( 22... Rxc1+ 23. Nxc1 Nb8
+24. Ne2 Qb7 25. h3 Nc6 26. Ng3 Qb6 27. Qd1 Ne7 28. Rc1 Rxc1 29. Qxc1 Nc6 30.
+Qc2 Qb7 { [%eval -0.07,17] } ) 23. Rxc1 { [%clk 0:01:23] } 23... Rxc1+
+{ [%clk 0:01:57] } ( 23... Rxc1+ 24. Qxc1 Qa6 25. Qd2 Nb6 26. h3 Qa1+ 27. Kh2
+Na4 28. Qxb4 Qxb2 29. Qxa4 Qxe2 30. Kg1 Qb2 31. Qa8+ Kh7 32. Qc6
+{ [%eval -0.07,18] } ) 24. Qxc1 { [%clk 0:01:20] } 24... Qa6 { [%clk 0:01:56] }
+( 24... Qa6 25. Qc2 Nb6 26. Qb1 Nc8 27. Ng3 Ne7 28. h3 Qc6 29. Qd1 g6 30. Ne1
+Qb6 31. Nf3 Kg7 32. Ne1 b3 33. Nf3 { [%eval -0.09,18] } ) 25. Ne1
+{ [%clk 0:01:17] } 25... e5 { [%clk 0:01:55] } ( 25... e5 26. Qc2 Qa1 27. Qd2
+Qa4 28. Qc2 Qb5 29. h3 Kh7 30. dxe5 dxe5 31. Nf3 b3 32. Qc3 e4 33. Nfd4
+{ [%eval -0.17,16] } ) 26. Qd2 { [%clk 0:01:14] } 26... Qa4 { [%clk 0:01:55] }
+( 26... Qa4 27. Qc2 Qa1 28. Qd2 Qa4 29. Qc2 Qa1 30. Qd2 Qa4 31. Qc2 Qa1 32. Qd2
+Qa4 33. Qc2 Qa1 34. Qd2 { [%eval -0.17,16] } ) 27. Nc2 { [%clk 0:01:12] } 27...
+b3 { [%clk 0:01:54] } ( 27... b3 28. Ne1 exd4 29. Nxd4 Nc5 30. Qc3 Kh7 31. h3
+Qa1 32. Nf3 Qa4 33. Qc1 Ne6 34. d4 Qc4 35. Qb1+ Kg8 { [%eval 0.13,17] } ) 28.
+Na3 { [%clk 0:01:09] } 28... Nb8 { [%clk 0:01:40] } ( 28... Nb8 29. dxe5 dxe5
+30. d4 Nc6 31. Nc3 Qb4 32. dxe5 Nxe5 33. Qd1 Nc4 34. Nxc4 Qxc4 35. h3 Kh7 36.
+g3 Kg8 { [%eval 0.00,17] } ) 29. dxe5 { [%clk 0:01:07] } 29... dxe5
+{ [%clk 0:01:39] } ( 29... dxe5 30. Qc3 Nc6 31. Nc1 Na5 32. Qc8+ Kh7 33. Qf5+
+Kh8 34. Qc8+ Kh7 35. Qf5+ Kh8 36. Qc8+ Kh7 37. Qf5+ Kh8 38. Qc8+ Kh7
+{ [%eval 0.00,19] } ) 30. Qc3 { [%clk 0:01:04] } 30... Nc6 { [%clk 0:01:39] } (
+30... Nc6 31. Nc1 Na5 32. h3 e4 33. dxe4 dxe4 34. Ne2 Nc6 35. Nf4 Ne7 36. Kh2
+Nc6 37. Nc4 Qb4 38. Qxb4 Nxb4 39. Kg3 { [%eval 0.06,18] } ) 31. Nc1
+{ [%clk 0:01:02] } 31... Na5 { [%clk 0:01:37] } ( 31... Na5 32. h3 e4 33. dxe4
+dxe4 34. Ne2 Nc6 35. Qc4 Qb4 36. Qxb4 Nxb4 37. Nd4 Nd3 38. Nc4 Nc5 39. Nd2 Nd3
+40. N2xb3 { [%eval 0.29,18] } ) 32. h3 { [%clk 0:01:00] } 32... e4
+{ [%clk 0:01:36] } ( 32... e4 33. dxe4 dxe4 34. Ne2 { [%eval 0.29,17] } ) 33.
+dxe4 { [%clk 0:00:58] } 33... dxe4 { [%clk 0:01:35] } ( 33... dxe4 34. Ne2 Nc6
+35. Qc4 Qxc4 36. Nxc4 Kf8 { [%eval 0.75,18] } ) 34. Nb1 { [%clk 0:00:56] }
+34... Qc4 { [%clk 0:01:34] } ( 34... Qc4 { [%eval 0.09,18] } ) 35. Qxc4
+{ [%clk 0:00:54] } 35... Nxc4 { [%clk 0:01:33] } ( 35... Nxc4 36. Nxb3 Nxb2 37.
+N1d2 Nd3 38. Kf1 Kf8 39. Ke2 Ke7 40. Nxe4 Nxe4 41. Kxd3 Nxf2+ 42. Kd4
+{ [%eval 0.15,22] } ) 36. Nxb3 { [%clk 0:00:53] } 36... Nxb2 { [%clk 0:01:29] }
+( 36... Nxb2 37. N1d2 Nd3 38. Kf1 Kf8 39. Ke2 Ke7 40. Nxe4 Nxe4 41. Kxd3 Nxf2+
+42. Kd4 f6 43. Kd5 g6 44. Nd4 Nd1 45. Nc2 Nc3+ 46. Kd4 Ne2+ { [%eval 0.12,21] }
+) 37. g4 { [%clk 0:00:51] } 37... Na4 { [%clk 0:01:07] } ( 37... Na4 38. N1d2
+Kf8 39. Nc4 Ke7 40. Nd4 g6 41. Nc6+ Kd7 42. Nd4 Nc5 43. Ne5+ Ke8 44. Kg2 Ke7
+45. Nec6+ Kf8 46. Ne5 { [%eval -0.07,18] } ) 38. Kg2 { [%clk 0:00:50] } 38...
+Kf8 { [%clk 0:01:06] } ( 38... Kf8 39. N1d2 Ke7 40. f3 exf3+ 41. Kxf3 Nd7 42.
+Ke4 Nc3+ 43. Kd3 Nb5 44. Nd4 Nd6 45. Nf5+ Nxf5 46. gxf5 Ne5+ 47. Kd4 Kf6
+{ [%eval -0.07,19] } ) 39. N1d2 { [%clk 0:00:48] } 39... Ke7 { [%clk 0:01:03] }
+( 39... Ke7 40. f3 exf3+ 41. Kxf3 Nd7 42. Ke4 Nc3+ 43. Kd3 Nb5 44. Nd4 Nd6 45.
+Nf5+ Nxf5 46. gxf5 Ne5+ 47. Kd4 Kf6 48. e4 { [%eval -0.05,18] } ) 40. Nd4
+{ [%clk 0:00:47] } 40... g6 { [%clk 0:01:03] } ( 40... g6 41. Nc4 Nd7 42. Nb5
+Nac5 43. Kg3 Nf6 44. Nc7 Nd3 45. Kg2 Kd7 46. Nb5 Kc6 47. Nbd6 Kd5 48. Kf1 g5
+49. Ke2 { [%eval -0.14,18] } ) 41. Kf1 { [%clk 0:00:46] } 41... Kd6
+{ [%clk 0:01:03] } ( 41... Kd6 42. Ne2 Ke5 43. Kg2 Ke6 44. Nf4+ Ke7 45. Ne2 Nc5
+46. Nd4 Nd3 47. Nc4 Nd5 48. Nc6+ Kd7 49. Nd4 Nc3 { [%eval -0.23,17] } ) 42.
+Nc4+ { [%clk 0:00:44] } 42... Kd5 { [%clk 0:01:02] } ( 42... Kd5 43. Na5 Nc5
+44. Nac6 Nd3 45. Ke2 h5 46. g5 Ne8 47. f4 Nc7 48. Ne7+ Kc5 49. Nb3+ Kd6 50.
+Nc8+ Kd7 51. Nb6+ { [%eval -0.35,18] } ) 43. Na5 { [%clk 0:00:43] } 43... Nc5
+{ [%clk 0:00:59] } ( 43... Nc5 44. Nac6 Nd3 45. Ke2 h5 46. g5 Ne8 47. Ne7+ Kc4
+48. Ndc6 Nd6 49. Na5+ Kb4 50. Nac6+ Kc5 51. f3 Kc4 52. Na5+
+{ [%eval -0.32,18] } ) 44. Nac6 { [%clk 0:00:42] } 44... Nd3 { [%clk 0:01:00] }
+( 44... Nd3 45. Ne7+ Kc5 46. Ke2 h5 47. gxh5 Nxh5 48. Nb3+ Kd6 49. Nc8+ Kd5 50.
+Nb6+ Kc6 51. Na4 Nf6 52. Nc3 Nc5 53. Nd4+ { [%eval -0.38,18] } ) 45. Ke2
+{ [%clk 0:00:41] } 45... h5 { [%clk 0:01:00] } ( 45... h5 46. g5 Ne8 47. Ne7+
+Kc4 48. Kf1 Nd6 49. h4 Kc5 50. Ng8 Ne8 51. Nh6 Ne5 52. Ke2 { [%eval -0.34,18] }
+) 46. g5 { [%clk 0:00:40] } 46... Ne8 { [%clk 0:00:57] } ( 46... Ne8 47. Ne7+
+Kc4 48. Kf1 { [%eval -0.34,16] } ) 47. h4 { [%clk 0:00:39] } 47... Nd6
+{ [%clk 0:00:57] } ( 47... Nd6 48. Ne7+ Kc4 49. Kf1 Kc5 50. Ng8 Ne8 51. Ke2
+Nf4+ 52. exf4 Kxd4 53. Ne7 Nd6 54. Nc6+ Kc5 55. Ne5 Kd5 { [%eval -0.29,17] } )
+48. Kf1 { [%clk 0:00:38] } 48... Nc4 { [%clk 0:00:57] } ( 48... Nc4 49. Ne7+
+Ke5 50. Ng8 Nb4 51. Ke1 Nd5 52. Nh6 Nd6 53. Nc6+ Ke6 54. Nd4+
+{ [%eval -0.30,16] } ) 49. Ne7+ { [%clk 0:00:37] } 49... Ke5 { [%clk 0:00:57] }
+( 49... Ke5 50. Ng8 Nb4 51. Ke1 Nd5 52. Nh6 Nd6 53. Nc6+ Ke6 54. Kf1 Nc3 55.
+Nd4+ Kd5 56. Ng8 Nc4 57. Nf6+ Ke5 58. Nd7+ { [%eval -0.38,18] } ) 50. Ng8
+{ [%clk 0:00:36] } 50... Nb4 { [%clk 0:00:55] } ( 50... Nb4 51. Ke1 Nd5 52. Nh6
+Nd6 53. Nc6+ Ke6 54. Ke2 Nc3+ 55. Kd2 Ncb5 { [%eval -0.27,18] } ) 51. Nf6
+{ [%clk 0:00:36] } 51... Nd5 { [%clk 0:00:56] } ( 51... Nd5 52. Nc6+ Kd6 53.
+Nxd5 Kxd5 54. Ne7+ Ke6 55. Ng8 Ne5 56. Kg2 Nd7 57. Kg3 Nc5 58. Kf4 Nd3+ 59. Kg3
+Ke5 60. Nf6 Nc5 61. f4+ Ke6 { [%eval -0.39,21] } ) 52. Nxd5 { [%clk 0:00:35] }
+52... Kxd5 { [%clk 0:00:56] } ( 52... Kxd5 53. Kg2 Ne5 54. Nb5 Nf3 55. Kg3 Ne1
+56. Nc7+ Ke5 { [%eval -0.37,22] } ) 53. Kg1 { [%clk 0:00:34] } 53... Ne5
+{ [%clk 0:00:57] } ( 53... Ne5 54. Kg2 Kc5 55. Kg3 Kc4 56. Kf4 Kd5 57. Nb5 Nd3+
+58. Kg3 Ke6 59. Nc7+ Ke5 60. Ne8 Nc5 61. Kg2 Kd5 62. Nf6+ Kc4 63. Kg3 Kd3 64.
+Kf4 { [%eval -0.38,22] } ) 54. Kg2 { [%clk 0:00:34] } 54... Kc5
+{ [%clk 0:00:57] } ( 54... Kc5 55. Kg3 Kc4 56. Kf4 Kd5 57. Nb5 Nd3+ 58. Kg3 Ke6
+59. Nc7+ Ke5 60. Ne8 Nc5 61. Kg2 Kd5 62. Nf6+ Kd6 63. Kg3 Ke5 64. Ne8 Nb3 65.
+Nf6 Kf5 { [%eval -0.37,23] } ) 55. Kg3 { [%clk 0:00:33] } 55... Kc4
+{ [%clk 0:00:56] } ( 55... Kc4 56. Kf4 Kd5 57. Nb5 Nd3+ 58. Kg3 Ke5 59. Kg2 Nc5
+60. Nc7 Nd3 61. Ne8 Ke6 62. Nf6 Ne1+ 63. Kg3 Kf5 64. f4 exf3 65. e4+ Ke6 66.
+Kf2 Nd3+ { [%eval -0.37,23] } ) 56. Kf4 { [%clk 0:00:32] } 56... Kd5
+{ [%clk 0:00:57] } ( 56... Kd5 57. Nb5 Nd3+ 58. Kg3 Ke5 59. f4+ exf3 60. Kxf3
+Nc5 61. Na7 Kd5 62. Nb5 Nd3 63. e4+ Kc5 64. Ke3 Ne1 65. Nc7 Ng2+ 66. Kf3 Nxh4+
+67. Kg3 { [%eval -0.27,22] } ) 57. Kg3 { [%clk 0:00:32] } 57... Nd7
+{ [%clk 0:00:57] } ( 57... Nd7 58. Nb5 Nc5 59. Kf4 Nd3+ 60. Kg3 Ke5 61. f4+
+exf3 62. Kxf3 Nc5 63. Na7 Kd5 64. Nb5 Nd3 65. Nd4 Nc5 66. Nb5 Nd3 67. Nd4 Nc5
+68. Nb5 Nd3 { [%eval -0.27,23] } ) 58. f4 { [%clk 0:00:31] } 58... Nb6
+{ [%clk 0:00:55] } ( 58... Nb6 59. Kf2 Nc4 60. Ke2 Kc5 61. Nb3+ Kc6 62. Nd4+
+Kd5 63. Kf2 Nd6 64. Ke2 Kc5 65. Kd2 Nc4+ 66. Ke2 Nd6 67. Kd2 Nc4+ 68. Ke2 Nd6
+69. Kd2 Nc4+ { [%eval -0.35,23] } ) 59. f5 { [%clk 0:00:31] } 59... Nd7
+{ [%clk 0:00:54] } ( 59... Nd7 60. fxg6 fxg6 61. Ne2 Kc4 62. Kf4 Nc5 63. Ke5
+Kd3 64. Nf4+ Kxe3 65. Nxg6 Nd3+ 66. Kd5 Nb4+ 67. Kd6 Nd3 68. Kd5 Nb4+ 69. Kd6
+Nd3 { [%eval 0.00,21] } ) 60. Kf4 { [%clk 0:00:30] } 60... Ne5
+{ [%clk 0:00:54] } ( 60... Ne5 61. f6 Nd3+ 62. Kg3 Kd6 63. Nb5+ Ke6 64. Nd4+
+{ [%eval -0.24,25] } ) 61. fxg6 { [%clk 0:00:30] } 61... fxg6
+{ [%clk 0:00:54] } ( 61... fxg6 62. Kg3 Nd3 63. Ne2 Kc4 64. Kg2 Ne1+ 65. Kh3
+Kd3 66. Nf4+ Kxe3 67. Nxg6 Nd3 68. Ne7 Kf3 69. g6 e3 70. g7 e2 71. g8=Q Nf4+
+72. Kh2 e1=Q { [%eval -0.23,23] } ) 62. Kg3 { [%clk 0:00:29] } 62... Nd3
+{ [%clk 0:00:52] } ( 62... Nd3 63. Kh3 Nc5 64. Ne2 Ne6 65. Kg2 Ke5 66. Kf2 Nc5
+67. Kg3 Ne6 68. Kf2 Nc5 69. Kg3 Ne6 70. Kf2 Nc5 71. Kg3 Ne6 72. Kf2 Nc5 73. Kg3
+Ne6 { [%eval -0.31,23] } ) 63. Kg2 { [%clk 0:00:29] } 63... Kc4
+{ [%clk 0:00:53] } ( 63... Kc4 64. Nc6 Kc5 65. Ne7 Ne5 66. Kg3 Kd6 67. Ng8 Nd3
+68. Nf6 Ke5 69. Nd7+ Ke6 70. Nf8+ Kf5 71. Nd7 Nc1 72. Nf6 Ne2+ 73. Kg2 Ke5 74.
+Nd7+ Ke6 { [%eval -0.22,23] } ) 64. Nc6 { [%clk 0:00:28] } 64... Kc5
+{ [%clk 0:00:52] } ( 64... Kc5 65. Ne7 Ne5 66. Kg3 Kd6 67. Ng8 Nd3 68. Nf6 Ke5
+69. Nd7+ Ke6 70. Nf8+ Kf5 71. Nd7 Nc1 72. Nf6 Ne2+ 73. Kg2 Ke5 74. Nd7+ Ke6 75.
+Nf6 Kf5 76. Kf2 { [%eval -0.24,24] } ) 65. Nd4 { [%clk 0:00:28] } 65... Kd5
+{ [%clk 0:00:52] } ( 65... Kd5 66. Ne2 Ke5 67. Kg3 Nb4 68. Nf4 Kf5 69. Kh3 Nc2
+70. Nd5 Ke5 71. Ne7 Nxe3 72. Nxg6+ Kf5 73. Nf8 Nc4 74. Kg3 e3 75. Kf3 Ke5 76.
+Nd7+ Kd4 77. g6 { [%eval -0.24,24] } ) 66. Kf1 { [%clk 0:00:28] } 66... Ke5
+{ [%clk 0:00:52] } ( 66... Ke5 67. Ke2 Kd6 68. Kf1 Ne5 69. Ke2 Kd5 70. Kf2 Ng4+
+71. Ke2 Kc4 72. Nc6 Kc3 73. Ne7 Ne5 74. Nd5+ Kc4 75. Nf4 Kc5 76. Ne6+ Kc4 77.
+Nf4 Kc5 { [%eval -0.27,23] } ) 67. Ke2 { [%clk 0:00:27] } 67... Kd6
+{ [%clk 0:00:53] } ( 67... Kd6 68. Kf1 Ne5 69. Ke2 Kd5 70. Kf2 Ng4+ 71. Ke2 Kd6
+72. Nb5+ Ke5 73. Nd4 Kd5 74. Nb5 Nh2 75. Kf2 Kc4 76. Nc7 Kd3 77. Nd5 Ng4+ 78.
+Kg3 Nxe3 { [%eval -0.31,25] } ) 68. Kd2 { [%clk 0:00:27] } 68... Ke7
+{ [%clk 0:00:53] } ( 68... Ke7 69. Ke2 Ne5 70. Kd2 Kd6 71. Ke2 Kd5 72. Kf2 Ng4+
+73. Ke2 Kd6 74. Nb5+ Kd5 75. Nd4 Kd6 76. Nb5+ Kd5 77. Nd4 Kd6 78. Nb5+ Kd5 79.
+Nd4 Kd6 80. Nb5+ { [%eval -0.31,24] } ) 69. Ke2 { [%clk 0:00:27] } 69... Ne5
+{ [%clk 0:00:53] } ( 69... Ne5 70. Kd2 Kd6 71. Ke2 Kd5 72. Kf2 Ng4+ 73. Ke2 Ne5
+74. Kf2 Ng4+ 75. Ke2 Ne5 76. Kf2 Ng4+ 77. Ke2 Ne5 78. Kf2 Ng4+ 79. Ke2 Ne5 80.
+Kf2 Ng4+ 81. Ke2 Ne5 82. Kf2 { [%eval -0.36,26] } ) 70. Kd2 { [%clk 0:00:26] }
+70... Kd6 { [%clk 0:00:52] } ( 70... Kd6 71. Ke1 Kd5 72. Ke2 Nd7 73. Kd2 Kc4
+74. Nc6 Kc5 75. Nd4 Ne5 76. Ke1 Kc4 77. Ke2 Nd3 78. Nc6 Kb5 79. Nd4+ Kc5
+{ [%eval -0.27,19] } ) 71. Ke2 { [%clk 0:00:26] } 71... Kd5 { [%clk 0:00:52] }
+( 71... Kd5 72. Kf2 Nc4 73. Ne2 Ke5 74. Nd4 Nb2 75. Nc6+ Kd6 76. Nd4 Na4 77.
+Ke2 Kd5 78. Kd2 Nb6 79. Ke1 Nd7 80. Kd2 Kc4 81. Nc6 { [%eval -0.27,24] } ) 72.
+Kf2 { [%clk 0:00:26] } 72... Nc4 { [%clk 0:00:52] } ( 72... Nc4 73. Ne2 Ke5 74.
+Nd4 Nb2 75. Nc6+ Kd6 76. Nd4 Nd3+ 77. Ke2 Ne5 78. Nb5+ Kc6 79. Nd4+ Kd7 80. Kd2
+Ke7 81. Ke1 Nd7 82. Ke2 Kd6 83. Kf2 Nc5 84. Ke2 Kd5 85. Kd2
+{ [%eval -0.28,26] } ) 73. Ne2 { [%clk 0:00:26] } 73... Ke5 { [%clk 0:00:53] }
+( 73... Ke5 74. Nd4 Nb2 75. Nc6+ Kd6 76. Nd4 Nd3+ 77. Ke2 Ne5 78. Kf2 Nc4 79.
+Ke2 Nb6 80. Kd2 Nd5 81. Ne2 Ke5 82. Nd4 Kd6 83. Ne2 Ke5 84. Nd4 Kd6 85. Ne2 Ke5
+86. Nd4 { [%eval -0.27,26] } ) 74. Nd4 { [%clk 0:00:25] } 74... Kd6
+{ [%clk 0:00:53] } ( 74... Kd6 75. Ke2 Nb6 76. Kd2 Kd5 77. Ke1 Nd7 78. Kd2 Kc4
+79. Nc6 Kc5 80. Nd4 Ne5 81. Ke1 Kc4 82. Ke2 Nd3 83. Nc6 Kb5 84. Nd4+ Kc5 85.
+Ne6+ Kc4 86. Nf4 Nxf4+ { [%eval -0.27,25] } ) 75. Ke2 { [%clk 0:00:25] } 75...
+Ke7 { [%clk 0:00:54] } ( 75... Ke7 76. Kf2 Nb2 77. Nc6+ Kd6 78. Nd4 Nd3+ 79.
+Kf1 Ke5 80. Ke2 Kd6 81. Kd2 Kd5 82. Ne2 Ke5 83. Nd4 Kd5 84. Ne2 Ke5 85. Nd4 Kd5
+86. Ne2 Ke5 87. Nd4 Kd5 { [%eval -0.27,25] } ) 76. Nb5 { [%clk 0:00:25] } 76...
+Ke6 { [%clk 0:00:54] } ( 76... Ke6 77. Nd4+ Kd6 78. Kf2 Nb2 79. Ke1 Kd5 80. Ke2
+Nc4 81. Kf2 Ke5 82. Nc6+ Ke6 83. Nd4+ Kd5 84. Ne2 Ke5 85. Nd4 Nb2 86. Nc6+ Kd6
+87. Nd4 Nd3+ 88. Kf1 Ke5 89. Ke2 Kd6 90. Kd2 { [%eval -0.27,28] } ) 77. Nd4+
+{ [%clk 0:00:25] } 77... Kd5 { [%clk 0:00:54] } ( 77... Kd5 78. Kf2 Ke5 79.
+Nc6+ Kd6 80. Nd4 Nb2 81. Ke1 Kd5 82. Ke2 Na4 83. Kd2 Nb6 84. Ke1 Nd7 85. Kd2
+Kc4 86. Nc6 Kc5 87. Nd4 Ne5 88. Ke1 Kc4 89. Ke2 Nd3 90. Kd2 Kd5 91. Ne2 Ke5 92.
+Nd4 { [%eval -0.27,30] } ) 78. Kf2 { [%clk 0:00:25] } 78... Ke5
+{ [%clk 0:00:54] } ( 78... Ke5 79. Nc6+ Kd6 80. Nd4 Nb2 81. Ke1 Kd5 82. Ke2 Na4
+83. Kd2 Nb6 84. Ke1 Nd7 85. Kd2 Kc4 86. Nc6 Kc5 87. Nd4 Ne5 88. Ke1 Kc4 89. Ke2
+Nd3 90. Kd2 Kd5 91. Ne2 Ke5 92. Nd4 Kd5 { [%eval -0.27,29] } ) 79. Ke2
+{ [%clk 0:00:24] } 79... Kd6 { [%clk 0:00:52] } ( 79... Kd6 80. Kf2 Nb2 81. Ke1
+Kd5 82. Ke2 Na4 83. Kd2 Nb6 84. Ke1 Nd7 85. Kd2 Kc4 86. Nc6 Kc5 87. Nd4 Ne5 88.
+Ke1 Kc4 89. Ke2 Nd3 90. Kd2 Kd5 91. Ne2 Ke5 92. Nd4 Kd5 { [%eval -0.27,27] } )
+80. Nb5+ { [%clk 0:00:24] } 80... Kd5 { [%clk 0:00:52] } ( 80... Kd5 81. Nd4
+Nb2 82. Kf2 Ke5 83. Nc6+ Kd6 84. Nd4 Nd3+ 85. Kf1 Nc5 86. Ke2 Kd5 87. Kd2 Nd3
+88. Ne2 Ke5 89. Nd4 Kd5 90. Ne2 Ke5 91. Nd4 Kd5 92. Ne2 Ke5 93. Nd4 Kd5 94. Ne2
+Ke5 95. Nd4 Kd5 { [%eval -0.27,31] } ) 81. Nd4 { [%clk 0:00:24] } 81... Nb2
+{ [%clk 0:00:52] } ( 81... Nb2 82. Kf2 Ke5 83. Nc6+ Kd6 84. Nd4 Nd3+ 85. Kf1
+Nc5 86. Ke2 Kd5 87. Kd2 Nd3 88. Ne2 Ke5 89. Nd4 Kd5 90. Ne2 Ke5 91. Nd4 Kd5 92.
+Ne2 Ke5 93. Nd4 Kd5 94. Ne2 Ke5 95. Nd4 Kd5 96. Ne2 Ke5 { [%eval -0.27,31] } )
+82. Kd2 { [%clk 0:00:24] } 82... Nd3 { [%clk 0:00:52] } ( 82... Nd3 83. Ne2 Ke5
+84. Nd4 Kd6 85. Ke2 Ne5 86. Kf2 Nd3+ 87. Kf1 Nc5 88. Ke2 Kd5 89. Kd2 Nd3 90.
+Ne2 Ke5 91. Nd4 Kd6 92. Ke2 Ne5 93. Kf2 Nd3+ 94. Kf1 Nc5 95. Ke2 Kd5 96. Kd2
+Nd3 { [%eval -0.27,29] } ) 83. Ke2 { [%clk 0:00:24] } 83... Ke5
+{ [%clk 0:00:52] } ( 83... Ke5 84. Nc6+ Kd6 85. Nd4 Ne5 86. Kf2 Nd3+ 87. Kf1
+Nc5 88. Ke2 Kd5 89. Kd2 Nd3 90. Ne2 Ke5 91. Nd4 Kd6 92. Ke2 Ne5 93. Kf2 Nd3+
+94. Kf1 Nc5 95. Ke2 Kd5 96. Kd2 { [%eval -0.27,26] } ) 84. Kd2
+{ [%clk 0:00:24] } 84... Kd6 { [%clk 0:00:52] } ( 84... Kd6 85. Ke2 Ne5 86. Kf2
+Nd3+ 87. Kf1 Nc5 88. Ke2 Kd5 89. Kd2 Nd3 90. Ne2 Ke5 91. Nd4 Kd6 92. Ke2 Ne5
+93. Kf2 Nd3+ 94. Kf1 Nc5 95. Ke2 Kd5 96. Kd2 Nd3 97. Ne2 { [%eval -0.27,26] } )
+85. Ke2 { [%clk 0:00:23] } 85... Nc5 { [%clk 0:00:53] } ( 85... Nc5 86. Kd2 Kd5
+87. Ne2 Ke5 88. Nd4 Na4 89. Ke2 Nb2 90. Ke1 Kd5 91. Ke2 Na4 92. Kd2 Nb6 93. Ke1
+Nd7 94. Ne2 Ke6 95. Nd4+ Ke5 96. Kd2 Kd6 97. Nb5+ Kd5 98. Kc3
+{ [%eval -0.27,26] } ) 86. Kf2 { [%clk 0:00:23] } 86... Ke5 { [%clk 0:00:52] }
+( 86... Ke5 87. Nc6+ Ke6 88. Ke2 Kd6 89. Nd4 Kd5 90. Kd2 Nd3 91. Ne2 Ke5 92.
+Nd4 Kd6 93. Ke2 Ne5 94. Kf2 Nd3+ 95. Kf1 Nc5 96. Ke2 Kd5 97. Kd2 Nd3 98. Ne2
+Ke5 99. Nd4 { [%eval -0.27,26] } ) 87. Nc6+ { [%clk 0:00:23] } 87... Ke6
+{ [%clk 0:00:52] } ( 87... Ke6 88. Ke2 Kd6 89. Nd4 Nd7 90. Kf2 Ke5 91. Nc6+ Ke6
+92. Nd4+ Kd5 93. Ne2 Ke5 94. Nf4 Kf5 95. Nd5 Ne5 96. Kg3 Nc6 97. Nf4 Nb4 98.
+Ne2 Ke5 { [%eval -0.27,28] } ) 88. Nd4+ { [%clk 0:00:23] } 88... Kd5
+{ [%clk 0:00:50] } ( 88... Kd5 89. Kg2 Ke5 90. Kf2 Kd6 91. Ke2 Nd7 92. Kf2 Ke5
+93. Nc6+ Ke6 94. Nd4+ Kd5 95. Ne2 Ke5 96. Nf4 { [%eval -0.27,27] } ) 89. Ke1
+{ [%clk 0:00:23] } 89... Nd7 { [%clk 0:00:48] } ( 89... Nd7 90. Ke2 Ke5 91. Ke1
+Nc5 92. Kd2 Na4 93. Ke2 Nb2 94. Ke1 Kd5 95. Ke2 Na4 96. Kd2 Nb6 97. Ke1 Nd7 98.
+Ke2 Ke5 99. Ke1 Nc5 100. Kd2 Na4 101. Ke2 Nb2 102. Ke1 Kd5 { [%eval -0.27,27] }
+) 90. Ke2 { [%clk 0:00:23] } 90... Kd6 { [%clk 0:00:46] } ( 90... Kd6 91. Kf2
+Nb6 { [%eval -0.27,26] } ) 91. Kf2 { [%clk 0:00:23] } 91... Nc5
+{ [%clk 0:00:45] } ( 91... Nc5 92. Kg3 Ne6 93. Ne2 Ke5 94. Kf2 Nc5 95. Nd4 Na4
+96. Nc6+ Kd6 97. Nd4 Nb2 98. Ke1 Kd5 99. Ke2 Na4 100. Kd2 Nb6 101. Ke1
+{ [%eval -0.27,29] } ) 92. Kg3 { [%clk 0:00:23] } 92... Ne6 { [%clk 0:00:46] }
+( 92... Ne6 93. Ne2 Ke5 94. Kf2 Nc5 95. Nd4 Na4 96. Nc6+ Kd6 97. Nd4 Nb2 98.
+Ke1 Kd5 99. Ke2 Na4 100. Kd2 Nb6 101. Ke1 { [%eval -0.27,28] } ) 93. Kf2
+{ [%clk 0:00:23] } 93... Kd5 { [%clk 0:00:47] } ( 93... Kd5 94. Ne2 Ke5 95. Kg2
+Kf5 96. Kg3 Ke5 97. Kf2 Nc5 98. Nd4 Na4 99. Nc6+ Kd6 100. Nd4 Nb2 101. Ke1 Kd5
+102. Ke2 Na4 103. Kd2 Nb6 104. Ke1 { [%eval -0.27,28] } ) 94. Nb3
+{ [%clk 0:00:22] } 94... Kc4 { [%clk 0:00:47] } ( 94... Kc4 95. Na5+ Kc5 96.
+Nb3+ Kd5 97. Ke2 Ke5 98. Kf2 Ng7 99. Nd4 Nf5 100. Nxf5 Kxf5 101. Kg3 Ke5 102.
+Kh3 Kd5 103. Kh2 Kc4 104. Kg3 Kc3 105. Kf4 Kd3 106. Ke5 Kxe3 107. Kf6 Kf3
+{ [%eval -0.39,27] } ) 95. Na5+ { [%clk 0:00:22] } 95... Kc5 { [%clk 0:00:45] }
+( 95... Kc5 96. Nb3+ Kd5 97. Ke2 Ke5 98. Kf2 Ng7 99. Nc5 Nf5 100. Nd7+ Ke6
+{ [%eval -0.70,28] } ) 96. Nb3+ { [%clk 0:00:22] } 96... Kd5 { [%clk 0:00:46] }
+( 96... Kd5 97. Ke2 Ke5 98. Kf2 Ng7 99. Nc5 Nf5 100. Nd7+ Ke6 101. Nf8+ Kf7
+102. Nd7 Nxh4 103. Nc5 Nf3 104. Nxe4 Ne5 105. Nd2 Ke6 106. e4 Ke7 107. Kg2 Kd7
+108. Nf3 Ke6 109. Nd2 Kd6 110. Kg3 { [%eval -0.52,29] } ) 97. Nd4
+{ [%clk 0:00:22] } 97... Nxd4 { [%clk 0:00:47] } ( 97... Nxd4 98. exd4 Kxd4 99.
+Ke2 Ke5 100. Ke3 Kf5 101. Ke2 Kg4 102. Ke3 Kxh4 103. Kf4 Kh3 104. Kxe4 Kg2 105.
+Ke5 h4 106. Kf6 h3 107. Kxg6 h2 108. Kf6 h1=Q 109. g6 Qa1+ 110. Kf5 Qd4
+{ [%eval -7.96,27] } ) 98. exd4 { [%clk 0:00:22] } 98... Kxd4
+{ [%clk 0:00:48] } ( 98... Kxd4 99. Ke2 Ke5 100. Ke3 Kf5 101. Ke2 Kg4 102. Ke3
+Kxh4 103. Kf4 Kh3 104. Kxe4 Kg3 105. Ke5 h4 106. Kf6 h3 107. Kxg6 h2 108. Kf6
+h1=Q 109. g6 Qc6+ 110. Kf5 Qc8+ 111. Ke5 Qd7 112. g7 Qxg7+ 113. Ke4 Qg6+ 114.
+Ke5 { [%eval -9.89,32] } ) 99. Ke2 { [%clk 0:00:22] } 99... Ke5
+{ [%clk 0:00:45] } ( 99... Ke5 100. Ke3 Kf5 101. Ke2 Kg4 102. Ke3 Kxh4 103. Kf4
+Kh3 104. Kxe4 Kg3 105. Ke5 h4 106. Kf6 h3 107. Kxg6 h2 108. Kf6 h1=Q 109. g6
+Qf3+ 110. Ke7 Qe4+ 111. Kf7 Qf5+ 112. Ke7 Qxg6 113. Kd7 Kf4 114. Ke7 Kf3 115.
+Kd7 Ke3 { [%eval -10.23,33] } ) 100. Ke3 { [%clk 0:00:22] } 100... Kf5
+{ [%clk 0:00:43] } ( 100... Kf5 101. Ke2 Kg4 102. Ke3 Kxh4 103. Kf4 Kh3 104.
+Kxe4 Kg3 105. Ke5 h4 106. Kf6 h3 107. Kxg6 h2 108. Kf6 h1=Q 109. g6 Qf3+ 110.
+Ke7 Qe4+ 111. Kf7 Qf5+ 112. Ke7 Qxg6 113. Kd7 Kf4 114. Ke7 Kf3 115. Kd7 Ke3
+{ [%eval -10.23,31] } ) 101. Ke2 { [%clk 0:00:22] } 101... Kg4
+{ [%clk 0:00:42] } ( 101... Kg4 102. Ke3 { [%eval -10.23,29] } ) 102. Kf2
+{ [%clk 0:00:22] } 102... Kxh4 { [%clk 0:00:41] } ( 102... Kxh4
+{ [%eval -11.43,19] } ) 103. Ke3 { [%clk 0:00:22] } 103... Kxg5
+{ [%clk 0:00:41] } ( 103... Kxg5 104. Kxe4 Kh4 105. Ke3 g5 106. Ke2 Kg3
+{ [%eval -11.43,18] } ) 104. Kxe4 { [%clk 0:00:21] } 104... Kh4
+{ [%clk 0:00:41] } ( 104... Kh4 105. Ke3 g5 106. Ke2 { [%eval -12.14,21] } )
+105. Kf3 { [%clk 0:00:21] } 105... g5 { [%clk 0:00:41] } ( 105... g5 106. Kf2
+g4 107. Ke3 Kh3 108. Ke2 g3 109. Kd2 g2 110. Kc3 g1=Q 111. Kb2 Qg3 112. Kc1 Qg6
+113. Kd1 h4 114. Ke2 Qg1 { [%eval -18.57,24] } ) 106. Ke2 { [%clk 0:00:21] }
+106... Kg3 { [%clk 0:00:42] } ( 106... Kg3 107. Kf1 h4 108. Kg1 h3 109. Kf1 h2
+110. Ke2 h1=Q 111. Kd2 Kf4 112. Kc3 g4 113. Kb4 Qh5 114. Ka3 Qh3+ 115. Kb2 Qh1
+116. Ka2 g3 { [%eval -18.91,23] } ) 107. Kd1 { [%clk 0:00:21] } 107... h4
+{ [%clk 0:00:40] } ( 107... Kf2 108. Kc1 h4 109. Kc2 h3 110. Kb2 Kf3 111. Ka3
+Kf4 112. Kb2 h2 113. Ka2 h1=Q 114. Kb2 g4 115. Ka2 Qh2+ 116. Kb3 Qh3+ 117. Ka2
+Qh1 { [%eval -19.02,21] } ) 108. Ke2 { [%clk 0:00:21] } 108... h3
+{ [%clk 0:00:39] } ( 108... h3 109. Kf1 h2 110. Ke2 h1=Q 111. Kd2 Kf4 112. Kc3
+g4 113. Kb4 g3 114. Kb5 g2 115. Ka6 g1=Q 116. Kb5 Qb7+ 117. Kc4 Qc1+ 118. Kd4
+{ [%eval #-11,20] } ) 109. Ke3 { [%clk 0:00:21] } 109... h2 { [%clk 0:00:39] }
+( 109... h2 110. Kd3 h1=Q 111. Kd2 Kf4 112. Kc3 g4 113. Kb4 g3 114. Kb5 g2 115.
+Ka6 g1=Q 116. Kb5 Qb7+ { [%eval #-12,15] } ) 110. Ke4 { [%clk 0:00:21] } 110...
+h1=Q+ { [%clk 0:00:40] } ( 110... h1=Q+ 111. Ke5 g4 112. Kf5 Qd5+ 113. Kf6 Kf4
+114. Ke7 g3 115. Kf6 g2 116. Ke7 g1=Q 117. Kf8 Qgg5 { [%eval #-9,15] } ) 111.
+Kf5 { [%clk 0:00:21] } 111... Qd5+ { [%clk 0:00:39] } ( 111... Qd5+ 112. Kf6
+Kf4 113. Kg7 g4 114. Kh6 g3 115. Kg6 g2 116. Kg7 { [%eval #-10,10] } ) 112. Kf6
+{ [%clk 0:00:21] } 112... Kf4 { [%clk 0:00:39] } ( 112... Kf4 113. Kg6 Kg4 114.
+Kg7 Kf5 115. Kf8 Kf6 116. Ke8 Qd3 117. Kf8 Qd8# { [%eval #-6,13] } ) 113. Kg6
+{ [%clk 0:00:21] } 113... Ke5 { [%clk 0:00:39] } ( 113... Ke5 114. Kg7 Kf5 115.
+Kf8 Kf6 116. Ke8 Qd3 117. Kf8 Qd8# { [%eval #-5,15] } ) 114. Kg7
+{ [%clk 0:00:21] } 114... Kf5 { [%clk 0:00:39] } ( 114... Kf5 115. Kf8 Kf6 116.
+Ke8 Qd3 117. Kf8 Qd8# { [%eval #-4,15] } ) 115. Kh8 { [%clk 0:00:21] } 115...
+Kf6 { [%clk 0:00:40] } ( 115... Kf6 116. Kh7 Qd7+ 117. Kg8 Qg7#
+{ [%eval #-3,16] } ) 116. Kh7 { [%clk 0:00:23] } 116... Qd7+ { [%clk 0:00:40] }
+( 116... Qd7+ 117. Kg8 Qg7# { [%eval #-2,17] } ) 117. Kh6 { [%clk 0:00:25] }
+117... Qh3# { [%clk 0:00:38] } ( 117... Qh3# { [%eval #-1,17] } ) 0-1
+

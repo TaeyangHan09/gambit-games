@@ -1,0 +1,48 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/qk1onuuY"]
+[Date "2026.10.22"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "BerkBot"]
+[Result "*"]
+[GameId "qk1onuuY"]
+[UTCDate "2026.10.22"]
+[UTCTime "18:33:21"]
+[WhiteElo "2219"]
+[BlackElo "2141"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+3"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Unterminated"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. exd5 { [%clk 0:03:03] }
+2... Qxd5 { [%clk 0:03:03] } 3. Nc3 { [%clk 0:03:06] } 3... Qe6+
+{ [%clk 0:02:55] } 4. Be2 { [%clk 0:03:02] } ( 4. Be2 Qg6 5. g3 Nc6 6. Nf3 Bg4
+7. O-O e6 8. d4 O-O-O 9. Nh4 Bxe2 10. Nxg6 Bxd1 11. Nxh8 Bxc2
+{ [%eval 0.59,16] } ) 4... Qg6 { [%clk 0:02:48] } 5. Kf1 { [%clk 0:02:54] } (
+5. Kf1 Bf5 6. d3 Qb6 7. Bf3 e6 8. Be3 Qb4 9. Rb1 Nc6 10. Bxc6+ bxc6 11. Nge2
+Nf6 12. Nd4 Bg4 { [%eval 0.63,16] } ) 5... a6 { [%clk 0:02:41] } 6. Nf3
+{ [%clk 0:02:53] } ( 6. Nf3 Qd6 7. d4 Nf6 8. Kg1 Nc6 9. Be3 Bf5 10. Bd3 Bxd3
+11. Qxd3 { [%eval 0.82,15] } ) 6... Nc6 { [%clk 0:02:35] } 7. d4
+{ [%clk 0:02:50] } ( 7. d4 e6 8. Ng5 Nf6 9. Bd3 Qh5 10. Qxh5 Nxh5 11. d5 exd5
+12. Nxd5 Bd6 13. Be3 h6 14. Ne4 Be5 { [%eval 0.76,16] } ) 7... Bg4
+{ [%clk 0:02:29] } 8. Kg1 { [%clk 0:02:42] } ( 8. Kg1 Qd6 9. d5 Bxf3 10. Bxf3
+Ne5 11. Be3 Nxf3+ 12. Qxf3 Nf6 13. a3 O-O-O 14. Rd1 Kb8 15. Ne4
+{ [%eval 0.98,15] } ) 8... Nf6 { [%clk 0:02:23] } 9. h3 { [%clk 0:02:37] } ( 9.
+h3 Bxf3 10. Bxf3 O-O-O 11. Bxc6 bxc6 12. Qe2 Kb7 13. Be3 e6 14. a3
+{ [%eval 0.49,16] } ) 9... Bxf3 { [%clk 0:02:17] } 10. Bxf3 { [%clk 0:02:12] }
+( 10. Bxf3 O-O-O 11. Bxc6 bxc6 12. Qe2 Kb7 13. Be3 e6 14. Re1 Bd6 15. Qd2 Bb4
+16. Rb1 Nd5 17. a3 Bd6 18. Re1 h6 { [%eval 0.42,18] } ) 10... O-O-O
+{ [%clk 0:02:12] } 11. Bxc6 { [%clk 0:02:10] } ( 11. Bxc6 bxc6 12. Bf4 e6 13.
+Qe2 Kb7 14. Rd1 c5 15. Be5 Bd6 16. Bxd6 cxd6 17. Qf3+ Ka7 18. Qe3 Qxc2 19. dxc5
+dxc5 { [%eval 0.58,18] } ) 11... bxc6 { [%clk 0:02:07] } 12. Bf4
+{ [%clk 0:02:10] } ( 12. Bf4 e6 13. Qe2 Kb7 14. Rd1 c5 15. Be5 Bd6 16. Bxd6
+cxd6 17. Qf3+ Ka7 18. Qe3 Qxc2 19. dxc5 dxc5 { [%eval 0.58,16] } ) 12... e6
+{ [%clk 0:02:02] } 13. Be5 ( 13. Be5 Kb7 14. Qe2 Bd6 15. Re1 h6 16. a3 Ka7 17.
+Na4 Nd5 18. Nc5 Bxc5 19. dxc5 f6 20. Bg3 { [%eval 0.65,15] } ) 13... Bc5 14.
+Na4 ( 14. Na4 Bb6 15. Qe2 Kb7 16. Rd1 Nd7 17. Bg3 Rhe8 18. Nc3 c5 19. dxc5 Nxc5
+20. b4 Rxd1+ { [%eval 0.68,14] } ) *
+
