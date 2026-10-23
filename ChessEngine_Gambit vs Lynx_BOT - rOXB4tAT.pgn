@@ -1,0 +1,32 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/rOXB4tAT"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "Lynx_BOT"]
+[Result "*"]
+[GameId "rOXB4tAT"]
+[UTCDate "2026.10.23"]
+[UTCTime "14:55:13"]
+[WhiteElo "2322"]
+[BlackElo "2597"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+3"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Damiano Variation, Kholmov Gambit"]
+[Termination "Unterminated"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:03] }
+2... Nf6 { [%clk 0:03:03] } 3. Nxe5 { [%clk 0:03:06] } 3... Nxe4
+{ [%clk 0:03:06] } 4. Qe2 { [%clk 0:03:08] } 4... Qe7 { [%clk 0:03:09] } 5.
+Qxe4 { [%clk 0:03:11] } 5... d6 { [%clk 0:03:12] } 6. d4 { [%clk 0:03:14] }
+6... f5 { [%clk 0:03:14] } 7. Qe3 { [%clk 0:03:06] } ( 7. Qe3 dxe5 8. dxe5 Nc6
+9. Nc3 Qxe5 10. Nb5 Bb4+ 11. c3 Bd6 12. Nxd6+ cxd6 13. f4 Qxe3+ 14. Bxe3 Be6
+15. Be2 { [%eval 1.09,17] } ) 7... dxe5 { [%clk 0:03:17] } 8. dxe5
+{ [%clk 0:02:59] } ( 8. dxe5 Nc6 9. Nc3 Qxe5 10. Nb5 Bb4+ 11. c3 Qxe3+ 12. Bxe3
+Ba5 13. O-O-O a6 14. Nd4 Bd7 15. Nb3 O-O-O 16. Bg5 { [%eval 1.01,17] } ) 8...
+Qf7 { [%clk 0:03:20] } 9. Bb5+ ( 9. Bb5+ c6 10. Be2 Be6 11. O-O Be7 12. Rd1 Nd7
+13. Nd2 O-O 14. Nf3 Bd5 15. Qc3 Rfe8 { [%eval 1.45,14] } ) 9... c6 *
+
