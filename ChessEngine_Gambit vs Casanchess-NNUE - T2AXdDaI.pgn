@@ -1,0 +1,48 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/T2AXdDaI"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "Casanchess-NNUE"]
+[Result "*"]
+[GameId "T2AXdDaI"]
+[UTCDate "2026.10.23"]
+[UTCTime "15:24:22"]
+[WhiteElo "2316"]
+[BlackElo "2500"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+[Termination "Unterminated"]
+
+1. e4 { [%clk 0:05:00] } 1... c5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:05:02] }
+2... d6 { [%clk 0:05:02] } 3. d4 { [%clk 0:05:04] } 3... cxd4
+{ [%clk 0:05:04] } 4. Nxd4 { [%clk 0:05:05] } 4... Nf6 { [%clk 0:05:06] } 5.
+Nc3 { [%clk 0:05:07] } 5... Nc6 { [%clk 0:05:08] } 6. Bg5 { [%clk 0:05:09] }
+6... e6 { [%clk 0:05:10] } 7. Qd2 { [%clk 0:05:11] } 7... Be7
+{ [%clk 0:05:12] } 8. O-O-O { [%clk 0:05:13] } 8... Nxd4 { [%clk 0:05:14] } 9.
+Qxd4 { [%clk 0:05:14] } 9... O-O { [%clk 0:05:04] } 10. f4 { [%clk 0:05:16] }
+10... Qa5 { [%clk 0:04:54] } 11. Bc4 { [%clk 0:05:17] } 11... h6
+{ [%clk 0:04:46] } 12. Bh4 { [%clk 0:05:19] } 12... e5 { [%clk 0:04:35] } 13.
+fxe5 { [%clk 0:05:20] } 13... dxe5 { [%clk 0:04:26] } 14. Qd3
+{ [%clk 0:05:22] } 14... Bg4 { [%clk 0:04:15] } 15. Rdf1 { [%clk 0:05:23] }
+15... Rad8 { [%clk 0:04:06] } 16. Qg3 { [%clk 0:05:15] } ( 16. Qg3 Be6 17. Rxf6
+Bxc4 18. Rxh6 Bxh4 19. Rxh4 Be6 20. a3 Rd7 21. Rh5 { [%eval 0.58,17] } ) 16...
+Be6 { [%clk 0:03:59] } 17. Rxf6 { [%clk 0:04:59] } ( 17. Rxf6 Bxc4 18. Rxh6
+Bxh4 19. Rxh4 Be6 20. a3 Qc5 21. Rh5 f6 22. Rf1 Bf7 23. Rh4 Bc4 24. Re1 Be6 25.
+Kb1 Rd2 { [%eval 0.48,18] } ) 17... Bxc4 { [%clk 0:03:51] } 18. Rxh6
+{ [%clk 0:04:47] } ( 18. Rxh6 Bxh4 19. Rxh4 Be6 20. Rh5 f6 21. Qg6 Bxa2 22. Rh7
+Rf7 23. Qh5 Kf8 24. Rh8+ Ke7 { [%eval 1.04,19] } ) 18... f6 { [%clk 0:03:39] }
+19. Qg6 { [%clk 0:04:36] } ( 19. Qg6 Rd7 20. Rh7 Bc5 21. Qh5 Be3+ 22. Kb1 Bh6
+{ [%eval 2.79,18] } ) 19... Rd7 { [%clk 0:03:34] } 20. Rh7 { [%clk 0:04:11] } (
+20. Rh7 Bc5 21. Qh5 Be3+ 22. Kb1 Bh6 23. Rxh6 gxh6 24. Bxf6 Rxf6 25. Qe8+ Kh7
+26. Qxd7+ Rf7 27. Qh3 Rf2 28. Qc8 { [%eval 2.18,17] } ) 20... Bc5
+{ [%clk 0:03:29] } 21. Qh5 { [%clk 0:03:57] } ( 21. Qh5 Be3+ 22. Kb1 Bh6
+{ [%eval 2.65,18] } ) 21... Be3+ { [%clk 0:03:25] } 22. Kb1 ( 22. Kb1 Bh6 23.
+Rxh6 gxh6 24. Bxf6 Rxf6 25. Qe8+ Rf8 26. Qxd7 { [%eval 2.93,21] } ) 22... Bh6
+23. Rxh6 ( 23. Rxh6 gxh6 24. Bxf6 Rxf6 25. Qe8+ Rf8 26. Qxd7 Qa6
+{ [%eval 3.09,20] } ) *
+
