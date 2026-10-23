@@ -1,0 +1,42 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/rxbRzQ68"]
+[Date "2026.10.23"]
+[Round "-"]
+[White "TroutBot"]
+[Black "ChessEngine_Gambit"]
+[Result "*"]
+[GameId "rxbRzQ68"]
+[UTCDate "2026.10.23"]
+[UTCTime "04:19:00"]
+[WhiteElo "2195"]
+[BlackElo "2242"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+[Termination "Unterminated"]
+
+1. e4 { [%clk 0:05:00] } 1... c5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:43] }
+2... d6 { [%clk 0:05:03] } 3. Nc3 { [%clk 0:04:35] } 3... Nf6
+{ [%clk 0:05:05] } 4. d4 { [%clk 0:04:26] } 4... cxd4 { [%clk 0:05:08] } 5.
+Nxd4 { [%clk 0:04:18] } 5... a6 { [%clk 0:05:10] } 6. h3 { [%clk 0:04:02] }
+6... e5 { [%clk 0:05:13] } 7. Nf3 { [%clk 0:03:50] } 7... Be7
+{ [%clk 0:05:15] } 8. Bc4 { [%clk 0:03:35] } 8... Be6 { [%clk 0:05:18] } 9.
+Bxe6 { [%clk 0:03:29] } 9... fxe6 { [%clk 0:05:10] } ( 9... fxe6 10. O-O Nc6
+11. Bg5 O-O 12. Qd3 Rc8 13. Rfd1 h6 14. Bxf6 Rxf6 15. a3 Rf8 16. b4 Qc7 17. Ne2
+b5 18. Nc1 { [%eval 0.10,18] } ) 10. O-O { [%clk 0:03:19] } 10... O-O
+{ [%clk 0:04:46] } ( 10... O-O 11. Qd3 h6 12. Rd1 Nc6 13. a3 Rc8 14. b4 b5 15.
+Rb1 Qc7 16. Bd2 Kh8 17. Nh4 Kh7 18. Nf3 { [%eval 0.00,19] } ) 11. Qd3
+{ [%clk 0:03:06] } 11... h6 { [%clk 0:04:39] } ( 11... h6 12. Rd1 Nc6 13. a3
+Rc8 14. b4 b5 15. Rb1 Qc7 16. Bd2 Kh8 17. Nh4 Kh7 18. Nf3 Kh8 19. Nh4 Kh7 20.
+Nf3 Kh8 { [%eval 0.00,19] } ) 12. Be3 { [%clk 0:02:54] } 12... Nc6
+{ [%clk 0:04:32] } ( 12... Nc6 13. Rfd1 Rc8 14. a3 Qe8 15. b4 Qg6 16. Nh2 d5
+17. exd5 Qxd3 18. Rxd3 Nd4 19. Bxd4 exd4 20. Ne2 Rxc2 21. Nxd4
+{ [%eval -0.06,18] } ) 13. Rfd1 { [%clk 0:02:50] } 13... Rc8 { [%clk 0:04:24] }
+( 13... Rc8 14. a4 Qc7 15. Qe2 Kh8 16. Rd2 Na5 17. Rdd1 Nc6 18. Rd2 Na5 19.
+Rdd1 Nc6 20. Rd2 Na5 21. Rdd1 Nc6 22. Rd2 { [%eval 0.00,18] } ) 14. a3 Qe8 (
+14... Qe8 15. b4 Qg6 16. Rab1 d5 17. exd5 Qxd3 18. cxd3 exd5 19. d4 e4 20. Nh2
+Bd8 21. b5 Na5 22. Rdc1 Nc4 { [%eval -0.19,17] } ) *
+
