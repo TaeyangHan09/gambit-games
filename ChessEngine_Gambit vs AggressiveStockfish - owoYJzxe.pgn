@@ -1,0 +1,45 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/owoYJzxe"]
+[Date "2026.10.25"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "AggressiveStockfish"]
+[Result "1/2-1/2"]
+[GameId "owoYJzxe"]
+[UTCDate "2026.10.25"]
+[UTCTime "12:46:10"]
+[WhiteElo "2429"]
+[BlackElo "2699"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "C16"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... e6 { [%clk 0:05:00] } 2. d4 { [%clk 0:05:03] }
+2... d5 { [%clk 0:04:55] } 3. Nc3 { [%clk 0:05:05] } 3... Bb4
+{ [%clk 0:04:54] } 4. e5 { [%clk 0:05:08] } 4... Ne7 { [%clk 0:04:53] } 5. a3
+{ [%clk 0:05:11] } 5... Bxc3+ { [%clk 0:04:52] } 6. bxc3 { [%clk 0:05:14] }
+6... b6 { [%clk 0:04:51] } 7. Qg4 { [%clk 0:05:16] } 7... Kf8
+{ [%clk 0:04:18] } 8. h4 { [%clk 0:05:19] } 8... c5 { [%clk 0:04:10] } 9. Rh3
+{ [%clk 0:05:13] } ( 9. Rh3 h5 10. Qd1 Nbc6 11. Bg5 { [%eval 0.24,18] } ) 9...
+h5 { [%clk 0:04:05] } 10. Qd1 { [%clk 0:05:07] } ( 10. Qd1 Qc7 11. Bg5 Nbc6 12.
+Nf3 Bb7 { [%eval 0.27,20] } ) 10... Qc7 { [%clk 0:04:06] } 11. Bg5
+{ [%clk 0:04:58] } ( 11. Bg5 Nbc6 12. f4 Ke8 13. dxc5 bxc5 14. Nf3 Nf5 15. Bd3
+Nce7 16. c4 dxc4 { [%eval 0.16,20] } ) 11... Nf5 { [%clk 0:03:59] } 12. Bd3
+{ [%clk 0:04:54] } ( 12. Bd3 Ne7 13. Kf1 Ba6 14. Bxa6 Nxa6 15. Qd3 Nb8 16. Ne2
+Nbc6 17. Ng3 Rc8 18. Qd1 Ng6 19. Kg1 cxd4 20. cxd4 Nce7 21. Nxh5 Qxc2
+{ [%eval 0.27,20] } ) 12... cxd4 { [%clk 0:03:57] } 13. Ne2 { [%clk 0:04:48] }
+( 13. Ne2 Qxe5 14. cxd4 Qd6 15. Bxf5 exf5 16. Re3 f6 17. Bf4 Qd7 18. Bxb8 Rxb8
+19. Nf4 Rh6 20. Kf1 Ba6+ { [%eval 0.13,22] } ) 13... Qxe5 { [%clk 0:03:55] }
+14. Bf4 { [%clk 0:04:34] } ( 14. Bf4 Qf6 { [%eval 0.00,23] } ) 14... Qf6
+{ [%clk 0:03:48] } 15. Bg5 { [%clk 0:04:29] } ( 15. Bg5 Qe5 16. cxd4 Qd6
+{ [%eval 0.00,23] } ) 15... Qe5 { [%clk 0:03:46] } 16. Bf4 { [%clk 0:04:23] } (
+16. Bf4 Qf6 { [%eval 0.00,25] } ) 16... Qf6 { [%clk 0:03:45] } 17. Bg5
+{ [%clk 0:04:11] } ( 17. Bg5 Qe5 18. cxd4 { [%eval 0.00,25] } ) 17... Qe5
+{ [%clk 0:03:44] } 1/2-1/2
+
