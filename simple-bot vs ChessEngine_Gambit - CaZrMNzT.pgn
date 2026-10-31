@@ -1,0 +1,47 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/CaZrMNzT"]
+[Date "2026.10.31"]
+[Round "-"]
+[White "simple-bot"]
+[Black "ChessEngine_Gambit"]
+[Result "*"]
+[GameId "CaZrMNzT"]
+[UTCDate "2026.10.31"]
+[UTCTime "10:45:02"]
+[WhiteElo "2769"]
+[BlackElo "2570"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+3"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Yugoslav Variation"]
+[Termination "Unterminated"]
+
+1. g3 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:03] }
+2... Nf6 { [%clk 0:03:03] } 3. Bg2 { [%clk 0:03:06] } 3... c6
+{ [%clk 0:03:06] } 4. O-O { [%clk 0:03:08] } 4... Bg4 { [%clk 0:03:08] } 5. b3
+{ [%clk 0:03:11] } 5... Nbd7 { [%clk 0:03:11] } 6. Bb2 { [%clk 0:03:14] } 6...
+e6 { [%clk 0:03:14] } 7. d3 { [%clk 0:03:11] } 7... Bd6 { [%clk 0:03:16] } 8.
+h3 { [%clk 0:03:09] } 8... Bxf3 { [%clk 0:03:13] } ( 8... Bxf3 9. Bxf3 O-O 10.
+c4 a5 11. Nd2 Qe7 12. a3 b5 13. Bg2 Rfc8 14. e4 dxc4 15. bxc4 e5 16. cxb5 cxb5
+17. d4 exd4 18. e5 { [%eval 0.31,20] } ) 9. Bxf3 { [%clk 0:03:08] } 9... O-O
+{ [%clk 0:03:09] } ( 9... O-O 10. c4 a5 11. Nd2 Qe7 12. a3 { [%eval 0.36,19] }
+) 10. c4 { [%clk 0:03:03] } 10... a5 { [%clk 0:03:03] } ( 10... a5 11. Nd2
+{ [%eval 0.28,19] } ) 11. Nd2 { [%clk 0:03:01] } 11... a4 { [%clk 0:02:55] } (
+11... a4 12. Qc2 b5 13. Rab1 Qa5 14. e3 Bb4 15. Rfd1 Rfb8 16. cxd5 cxd5 17.
+Rbc1 { [%eval 0.27,20] } ) 12. Qc2 { [%clk 0:02:55] } 12... b5
+{ [%clk 0:02:51] } ( 12... b5 13. Rab1 Qa5 14. e3 Bb4 15. Rfd1 Rfb8 16. Bg2 h6
+{ [%eval 0.33,19] } ) 13. Rab1 { [%clk 0:02:53] } 13... Qa5 { [%clk 0:02:49] }
+( 13... Qa5 14. e3 Bb4 15. Rfd1 Rfb8 16. Rbc1 Ra6 { [%eval 0.26,18] } ) 14. e4
+{ [%clk 0:02:46] } 14... dxc4 { [%clk 0:02:46] } ( 14... dxc4 15. bxc4 e5 16.
+cxb5 cxb5 17. Rfc1 Nb6 18. Qd1 Rfc8 19. Rxc8+ Rxc8 20. d4 Nbd7 21. Be2 exd4 22.
+Bxd4 Bb4 { [%eval 0.13,17] } ) 15. bxc4 { [%clk 0:02:46] } 15... e5
+{ [%clk 0:02:45] } ( 15... e5 16. cxb5 cxb5 17. Rfc1 Rfd8 18. Bg2
+{ [%eval 0.06,20] } ) 16. d4 { [%clk 0:02:45] } 16... exd4 { [%clk 0:02:39] } (
+16... exd4 17. Bxd4 b4 18. c5 Bxc5 19. Bxc5 Nxc5 20. Nc4 b3 { [%eval 0.20,20] }
+) 17. Bg2 { [%clk 0:02:38] } 17... b4 { [%clk 0:02:34] } ( 17... b4 18. Bxd4
+Rfe8 19. Bxf6 Nxf6 20. e5 Rxe5 21. Bxc6 Rc8 22. Bxa4 Qa7 23. Rbd1
+{ [%eval 0.00,20] } ) 18. Bxd4 { [%clk 0:02:36] } 18... Rfe8 { [%clk 0:02:31] }
+( 18... Rfe8 19. f4 Bc5 20. Bxc5 Nxc5 { [%eval 0.10,20] } ) 19. f4 *
+
