@@ -1,0 +1,71 @@
+[Event "rated bullet game"]
+[Site "https://lichess.org/game/73y3cTa7"]
+[Date "2026.11.06"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "BerkBot"]
+[Result "1-0"]
+[GameId "73y3cTa7"]
+[UTCDate "2026.11.06"]
+[UTCTime "15:27:45"]
+[WhiteElo "2388"]
+[BlackElo "2198"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... d5 { [%clk 0:02:00] } 2. exd5 { [%clk 0:02:01] }
+2... Qxd5 { [%clk 0:02:01] } 3. Nc3 { [%clk 0:02:02] } 3... Qe6+
+{ [%clk 0:01:55] } 4. Be2 { [%clk 0:01:59] } ( 4. Be2 Qg6 5. Nf3 Qxg2 6. Rg1
+Qh3 7. d4 c6 8. Bf4 g6 9. Qd2 Bg7 10. Rg3 Qe6 11. O-O-O Nf6 12. Bh6 Bxh6 13.
+Qxh6 { [%eval 0.70,20] } ) 4... Qg6 { [%clk 0:01:50] } 5. Nf3
+{ [%clk 0:01:57] } ( 5. Nf3 Qxg2 6. Rg1 Qh3 7. d4 c6 8. Bc4 e6 9. Rg3 Qh5 10.
+Rg5 { [%eval 0.80,23] } ) 5... Qxg2 { [%clk 0:01:45] } 6. Rg1
+{ [%clk 0:01:43] } ( 6. Rg1 Qh3 7. d4 Qd7 8. Bf4 Nf6 9. Qd2 { [%eval 0.86,23] }
+) 6... Qh3 { [%clk 0:01:41] } 7. Bc4 { [%clk 0:01:25] } ( 7. Bc4 h6 8. Nd5 Na6
+9. d4 { [%eval 0.91,23] } ) 7... h6 { [%clk 0:01:36] } 8. Nd5
+{ [%clk 0:01:21] } ( 8. Nd5 Na6 9. d4 e6 10. Qe2 { [%eval 0.91,22] } ) 8... Na6
+{ [%clk 0:01:32] } 9. d4 { [%clk 0:01:19] } ( 9. d4 e6 10. Nf4 Qf5
+{ [%eval 1.42,21] } ) 9... e6 { [%clk 0:01:28] } 10. Nf4 { [%clk 0:01:14] } (
+10. Nf4 Qf5 11. Bd3 Qa5+ 12. Bd2 Qb6 13. Ne5 Nf6 14. c3 { [%eval 1.97,23] } )
+10... Qf5 { [%clk 0:01:24] } 11. Bd3 { [%clk 0:01:11] } ( 11. Bd3 Qa5+ 12. Bd2
+Qb6 13. Ne5 Nf6 14. c3 Bd7 { [%eval 1.97,22] } ) 11... Qa5+ { [%clk 0:01:20] }
+12. Bd2 { [%clk 0:00:57] } ( 12. Bd2 Qb6 13. Ne5 Nf6 14. c3 Bd7 15. Nc4 Qc6 16.
+Qe2 g5 17. Ne5 Qb6 18. Nh5 Nxh5 19. Nxd7 Kxd7 20. Qxh5 { [%eval 1.90,24] } )
+12... Qb6 { [%clk 0:01:17] } 13. Ne5 { [%clk 0:00:47] } ( 13. Ne5 Nf6 14. c3
+Bd7 15. Nc4 Qc6 { [%eval 1.90,23] } ) 13... Nb4 { [%clk 0:01:13] } 14. Qh5
+{ [%clk 0:00:46] } ( 14. Qh5 Nxd3+ 15. Nfxd3 Ne7 16. Nxf7 Rg8 17. Nd6+
+{ [%eval 6.37,17] } ) 14... Nxd3+ { [%clk 0:01:10] } 15. Nfxd3
+{ [%clk 0:00:46] } ( 15. Nfxd3 Ne7 16. Nxf7 g6 17. Rxg6 Qxd4 18. O-O-O Nxg6 19.
+Nxh8 Qe4 20. Nxg6 Qf5 21. Qxf5 exf5 22. Re1+ Kf7 23. Nde5+ Ke8 24. Nxf8 Kxf8
+{ [%eval 8.48,20] } ) 15... Ne7 { [%clk 0:01:07] } 16. Nxf7 { [%clk 0:00:42] }
+( 16. Nxf7 Bd7 17. Nxh8+ { [%eval 10.32,21] } ) 16... Rg8 { [%clk 0:01:05] }
+17. Nd6+ { [%clk 0:00:42] } ( 17. Nd6+ Kd7 18. Nc4 g6 19. Nxb6+ axb6 20. Ne5+
+Kd8 21. Qf3 Nf5 22. Rxg6 Rxg6 23. Nxg6 Bg7 24. c3 Ra5 25. Qe4 Bf6 26. Bf4
+{ [%eval 10.56,19] } ) 17... Kd7 { [%clk 0:01:02] } 18. Nc4 { [%clk 0:00:38] }
+( 18. Nc4 g6 19. Nxb6+ axb6 20. Ne5+ Kd8 21. Qf3 Nf5 22. Rxg6 Rxg6 23. Nxg6 Bg7
+24. c3 Ra5 25. Qe4 Bf6 26. Bf4 Nd6 27. Bxd6 cxd6 28. O-O-O { [%eval 10.48,21] }
+) 18... Qxd4 { [%clk 0:00:59] } 19. Nde5+ { [%clk 0:00:38] } ( 19. Nde5+ Kd8
+20. Nf7+ Kd7 21. Nce5+ Ke8 22. Nd6+ Kd8 23. Qe8# { [%eval 17.82,16] } ) 19...
+Kd8 { [%clk 0:00:57] } 20. Nf7+ { [%clk 0:00:37] } ( 20. Nf7+ Kd7 21. Nce5+
+Qxe5+ 22. Nxe5+ Kd6 23. O-O-O Nd5 24. Qf7 Kc5 25. Qxg8 Bd6 26. Qxg7 b6 27. c4
+{ [%eval 20.14,19] } ) 20... Kd7 { [%clk 0:00:55] } 21. Nce5+
+{ [%clk 0:00:35] } ( 21. Nce5+ Qxe5+ 22. Nxe5+ Kd6 23. O-O-O Nd5 24. Qf7 Kc5
+25. Qxg8 { [%eval 20.50,20] } ) 21... Qxe5+ { [%clk 0:00:52] } 22. Nxe5+
+{ [%clk 0:00:32] } ( 22. Nxe5+ Kd6 23. O-O-O Nd5 24. Qf7 { [%eval 20.94,21] } )
+22... Kd6 { [%clk 0:00:50] } 23. O-O-O { [%clk 0:00:26] } ( 23. O-O-O Nd5 24.
+Qf7 Kc5 { [%eval 20.94,21] } ) 23... Kc5 { [%clk 0:00:48] } 24. Bb4+
+{ [%clk 0:00:25] } ( 24. Bb4+ Kb5 25. Qe2+ Ka4 26. Rg4 { [%eval #6,11] } )
+24... Kb5 { [%clk 0:00:46] } 25. Qe2+ { [%clk 0:00:25] } ( 25. Qe2+ Ka4 26. Rg4
+Nd5 27. Bxf8+ { [%eval #5,14] } ) 25... Kb6 { [%clk 0:00:45] } 26. Qe3+
+{ [%clk 0:00:25] } ( 26. Qe3+ { [%eval #3,13] } ) 26... Ka6 { [%clk 0:00:43] }
+27. Qa3+ { [%clk 0:00:25] } ( 27. Qa3+ Kb6 28. Qa5# { [%eval #2,14] } ) 27...
+Kb5 { [%clk 0:00:44] } 28. Qa5# { [%clk 0:00:23] } ( 28. Qa5# { [%eval #1,15] }
+) 1-0
+
