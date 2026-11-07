@@ -1,0 +1,39 @@
+[Event "rated bullet game"]
+[Site "https://lichess.org/game/kLuF8Hm8"]
+[Date "2026.11.07"]
+[Round "-"]
+[White "AconcaguaBot"]
+[Black "ChessEngine_Gambit"]
+[Result "1/2-1/2"]
+[GameId "kLuF8Hm8"]
+[UTCDate "2026.11.07"]
+[UTCTime "10:49:20"]
+[WhiteElo "2282"]
+[BlackElo "2570"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... c5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:56] }
+2... d6 { [%clk 0:02:01] } 3. Nc3 { [%clk 0:01:45] } 3... Nf6
+{ [%clk 0:02:01] } 4. d4 { [%clk 0:01:41] } 4... cxd4 { [%clk 0:02:02] } 5.
+Nxd4 { [%clk 0:01:41] } 5... a6 { [%clk 0:02:03] } 6. Bd3 { [%clk 0:01:41] }
+6... e5 { [%clk 0:02:03] } 7. Nf3 { [%clk 0:01:41] } 7... Be7
+{ [%clk 0:02:00] } ( 7... Be7 8. Bc4 Nbd7 9. a4 Nc5 10. Qe2 Be6 11. Bxe6 Nxe6
+12. O-O Rc8 13. Rd1 Qc7 14. Be3 Qc4 15. Qd3 Qxd3 16. cxd3 O-O
+{ [%eval 0.10,19] } ) 8. O-O { [%clk 0:01:35] } 8... Be6 { [%clk 0:01:53] } (
+8... Be6 9. Re1 h6 10. Nd2 Nbd7 11. Be2 O-O 12. Nf1 Rc8 13. Ne3 Nc5 14. Bf3 b5
+15. Nf5 b4 16. Nxe7+ { [%eval -0.06,20] } ) 9. Ng5 { [%clk 0:01:29] } 9... Bd7
+{ [%clk 0:01:51] } ( 9... Bd7 10. Nf3 O-O 11. Re1 h6 12. b3 Be6 13. Bb2 Qc7 14.
+Nd2 Nc6 { [%eval 0.00,20] } ) 10. Nf3 { [%clk 0:01:18] } 10... Be6
+{ [%clk 0:01:47] } ( 10... Be6 11. Re1 { [%eval 0.00,24] } ) 11. Ng5
+{ [%clk 0:01:09] } 11... Bd7 { [%clk 0:01:40] } ( 11... Bd7 12. Nf3 O-O 13. Re1
+h6 { [%eval 0.00,24] } ) 12. Nf3 { [%clk 0:01:00] } 12... Be6
+{ [%clk 0:01:35] } ( 12... Be6 13. Re1 { [%eval 0.00,26] } ) 1/2-1/2
+
