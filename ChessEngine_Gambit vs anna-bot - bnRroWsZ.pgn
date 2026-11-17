@@ -1,0 +1,70 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/bnRroWsZ"]
+[Date "2026.11.17"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "anna-bot"]
+[Result "1/2-1/2"]
+[GameId "bnRroWsZ"]
+[UTCDate "2026.11.17"]
+[UTCTime "21:39:46"]
+[WhiteElo "2608"]
+[BlackElo "2861"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+3"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:03] }
+2... Nc6 { [%clk 0:02:59] } 3. Bb5 { [%clk 0:03:05] } 3... Nf6
+{ [%clk 0:02:59] } 4. O-O { [%clk 0:03:08] } 4... Nxe4 { [%clk 0:02:54] } 5. d4
+{ [%clk 0:03:11] } 5... Nd6 { [%clk 0:02:53] } 6. Bxc6 { [%clk 0:03:13] } 6...
+dxc6 { [%clk 0:02:52] } 7. dxe5 { [%clk 0:03:16] } 7... Nf5 { [%clk 0:02:50] }
+8. Qxd8+ { [%clk 0:03:19] } 8... Kxd8 { [%clk 0:02:48] } 9. Nc3
+{ [%clk 0:03:22] } 9... Be7 { [%clk 0:02:38] } 10. Bg5 { [%clk 0:03:16] } ( 10.
+Bg5 Bxg5 11. Nxg5 Ke7 12. Rad1 b6 13. Rfe1 Be6 14. Nxe6 fxe6 15. Ne4 Rad8 16.
+h3 c5 17. c3 Rxd1 18. Rxd1 Rf8 19. Kh2 h6 { [%eval 0.33,22] } ) 10... Bxg5
+{ [%clk 0:02:34] } 11. Nxg5 { [%clk 0:03:08] } ( 11. Nxg5 Ke7 12. Rad1 b6 13.
+Rfe1 Be6 14. Nxe6 Kxe6 15. Ne2 Rhd8 16. Nf4+ { [%eval 0.22,27] } ) 11... Ke7
+{ [%clk 0:02:33] } 12. Rad1 { [%clk 0:02:49] } ( 12. Rad1 b6
+{ [%eval 0.14,27] } ) 12... h6 { [%clk 0:02:31] } 13. Nf3 { [%clk 0:02:43] } (
+13. Nf3 g6 14. Rfe1 Be6 15. h3 Rad8 16. g4 Ng7 17. Kh2 c5 18. Kg3 b6 19. Nd2
+Bd5 20. Nxd5+ Rxd5 21. Ne4 Rxe5 22. Nxc5 Rxe1 23. Rxe1+ Ne6 24. Nxe6 fxe6
+{ [%eval 0.34,24] } ) 13... h5 { [%clk 0:02:28] } 14. Ne2 { [%clk 0:02:37] } (
+14. Ne2 Be6 15. Nf4 Rad8 16. h3 h4 17. Nxe6 fxe6 18. Rfe1 Rd5 19. c4 Rxd1 20.
+Rxd1 c5 21. Kf1 a5 22. Ke2 a4 23. Rd3 Rb8 24. Kd2 { [%eval 0.39,23] } ) 14...
+g6 { [%clk 0:02:25] } 15. Ng5 { [%clk 0:02:35] } ( 15. Ng5 Be6 16. b3 a5 17.
+Nxe6 Kxe6 18. Rfe1 Kxe5 19. Rd7 Kf6 20. Rxc7 Rhe8 21. Kf1 Re7 22. Rxe7 Nxe7 23.
+Nc3 Nd5 { [%eval 0.19,20] } ) 15... Be6 { [%clk 0:02:19] } 16. Rd2
+{ [%clk 0:02:25] } ( 16. Rd2 Rhd8 17. Rfd1 Rxd2 18. Rxd2 { [%eval 0.00,24] } )
+16... Rhd8 { [%clk 0:02:17] } 17. Rfd1 { [%clk 0:02:23] } ( 17. Rfd1 Rxd2 18.
+Rxd2 a5 19. Nxe6 Kxe6 { [%eval 0.00,32] } ) 17... Rxd2 { [%clk 0:02:16] } 18.
+Rxd2 { [%clk 0:01:51] } 18... a5 { [%clk 0:02:13] } 19. Nxe6 { [%clk 0:01:50] }
+( 19. Nxe6 Kxe6 20. f4 a4 21. Kf2 Ra5 22. Nc3 a3 23. b3 g5 { [%eval 0.00,28] }
+) 19... Kxe6 { [%clk 0:02:12] } 20. f4 { [%clk 0:01:49] } ( 20. f4 a4 21. Kf2
+Ra5 22. Nc3 g5 23. fxg5 a3 24. b3 Rxe5 25. Ne2 Nd6 26. Nd4+ Ke7 27. Re2 Ne4+
+28. Ke1 Kd6 29. Nf3 Re6 30. Nd4 { [%eval 0.00,30] } ) 20... a4
+{ [%clk 0:02:10] } 21. Kf2 { [%clk 0:01:43] } ( 21. Kf2 Ra5 22. Nc3 g5 23. fxg5
+{ [%eval 0.00,31] } ) 21... Ra5 { [%clk 0:02:09] } 22. Nc3 { [%clk 0:01:28] } (
+22. Nc3 g5 { [%eval 0.00,29] } ) 22... g5 { [%clk 0:02:07] } 23. fxg5
+{ [%clk 0:01:26] } ( 23. fxg5 a3 24. b3 Rxe5 25. Ne2 Nd6 26. Nd4+ Ke7 27. Re2
+Ne4+ 28. Ke1 Kf8 29. h4 { [%eval 0.00,30] } ) 23... a3 { [%clk 0:02:04] } 24.
+b3 { [%clk 0:01:26] } ( 24. b3 Rxe5 25. Ne2 Nd6 26. Nd4+ Ke7 27. Re2 Ne4+ 28.
+Ke1 Kf8 29. h4 { [%eval 0.00,29] } ) 24... Rxe5 { [%clk 0:02:02] } 25. Ne2
+{ [%clk 0:01:25] } ( 25. Ne2 Nd6 { [%eval 0.00,29] } ) 25... Nd6
+{ [%clk 0:01:53] } 26. Nd4+ { [%clk 0:01:07] } ( 26. Nd4+ Ke7 27. Re2 Ne4+ 28.
+Ke1 Kf8 29. h4 Re8 30. b4 Re7 31. Nf5 Re6 { [%eval 0.00,32] } ) 26... Ke7
+{ [%clk 0:01:52] } 27. Re2 { [%clk 0:00:53] } ( 27. Re2 Ne4+ 28. Ke1 Kf8
+{ [%eval 0.00,33] } ) 27... Ne4+ { [%clk 0:01:21] } 28. Ke1 { [%clk 0:00:43] }
+28... Kd6 { [%clk 0:01:15] } 29. Nf3 { [%clk 0:00:44] } ( 29. Nf3
+{ [%eval 0.00,28] } ) 29... Re6 { [%clk 0:01:14] } 30. Nd4 { [%clk 0:00:45] } (
+30. Nd4 Re5 31. Nf3 { [%eval 0.00,30] } ) 30... Re5 { [%clk 0:01:12] } 31. Nf3
+{ [%clk 0:00:40] } ( 31. Nf3 { [%eval 0.00,39] } ) 31... Re6 { [%clk 0:01:10] }
+32. Nd4 { [%clk 0:00:39] } ( 32. Nd4 Re5 { [%eval 0.00,32] } ) 32... Re5
+{ [%clk 0:01:02] } 1/2-1/2
+

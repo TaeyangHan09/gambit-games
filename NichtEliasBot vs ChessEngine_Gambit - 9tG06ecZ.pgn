@@ -1,0 +1,46 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/9tG06ecZ"]
+[Date "2026.11.17"]
+[Round "-"]
+[White "NichtEliasBot"]
+[Black "ChessEngine_Gambit"]
+[Result "*"]
+[GameId "9tG06ecZ"]
+[UTCDate "2026.11.17"]
+[UTCTime "21:03:35"]
+[WhiteElo "2422"]
+[BlackElo "2624"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+3"]
+[ECO "E70"]
+[Opening "King's Indian Defense: Normal Variation"]
+[Termination "Unterminated"]
+
+1. c4 { [%clk 0:05:00] } 1... Nf6 { [%clk 0:05:00] } 2. Nc3 { [%clk 0:05:03] }
+2... g6 { [%clk 0:05:03] } 3. e4 { [%clk 0:05:06] } 3... d6 { [%clk 0:05:05] }
+4. d4 { [%clk 0:05:09] } 4... Bg7 { [%clk 0:05:08] } 5. h3 { [%clk 0:05:11] }
+5... O-O { [%clk 0:05:11] } 6. Bg5 { [%clk 0:05:14] } 6... c5
+{ [%clk 0:05:13] } 7. d5 { [%clk 0:05:17] } 7... e6 { [%clk 0:05:07] } ( 7...
+e6 8. Bd3 exd5 9. cxd5 { [%eval 0.16,20] } ) 8. Bd3 { [%clk 0:05:20] } 8...
+exd5 { [%clk 0:04:57] } ( 8... exd5 9. cxd5 Re8 { [%eval 0.22,21] } ) 9. cxd5
+{ [%clk 0:05:23] } 9... Re8 { [%clk 0:04:52] } ( 9... Re8 10. Nge2 Nbd7 11. O-O
+Ne5 12. Ng3 h6 13. Bf4 Qb6 14. a4 Bd7 15. Rb1 h5 16. Bc2 Qb4 17. Qc1 a6 18. Bg5
+Nh7 19. Na2 Qb6 20. Bd2 { [%eval 0.17,22] } ) 10. Nf3 { [%clk 0:05:26] } 10...
+c4 { [%clk 0:04:48] } ( 10... c4 11. Bc2 b5 12. a3 Nbd7 13. O-O Nc5 14. Re1 a6
+15. Qd2 Qb6 16. Be3 Nfd7 17. Bd4 Bxd4 18. Qxd4 Qd8 19. e5 dxe5 20. Nxe5 Rxe5
+{ [%eval 0.12,21] } ) 11. Bc2 { [%clk 0:05:29] } 11... b5 { [%clk 0:04:41] } (
+11... b5 12. a3 Nbd7 13. Be3 Nc5 14. e5 Nfd7 15. e6 fxe6 16. O-O
+{ [%eval 0.17,23] } ) 12. a3 { [%clk 0:05:32] } 12... Na6 { [%clk 0:04:32] } (
+12... Na6 13. O-O Nc5 14. Re1 Qb6 15. Be3 Nfd7 16. Bd4 Ne5 17. Nxe5 Bxe5 18.
+Bxe5 dxe5 19. b4 { [%eval 0.18,25] } ) 13. Qd2 { [%clk 0:05:23] } 13... Nc5
+{ [%clk 0:04:24] } ( 13... Nc5 14. O-O Qb6 15. Bh6 Bh8 16. Rfe1 Nfd7 17. Be3 a5
+18. Bd4 Ne5 19. Nxe5 Bxe5 20. Bxe5 dxe5 21. Qe3 Bd7 { [%eval -0.06,23] } ) 14.
+O-O { [%clk 0:05:10] } 14... Qb6 { [%clk 0:04:05] } ( 14... Qb6 15. Rfe1 Nfd7
+16. Bh6 Bh8 17. Be3 a5 18. Bd4 Ne5 19. Nxe5 Bxe5 { [%eval -0.01,28] } ) 15.
+Rfe1 { [%clk 0:05:01] } 15... Nfd7 { [%clk 0:04:01] } ( 15... Nfd7 16. Bh6 Bh8
+17. Be3 a5 18. Bd4 Ne5 19. Nxe5 Bxe5 20. Bxe5 Rxe5 21. Qd4 { [%eval -0.05,29] }
+) 16. Bh6 { [%clk 0:04:51] } 16... Bh8 ( 16... Bh8 17. Be3 a5 18. Bd4
+{ [%eval -0.03,31] } ) 17. Be3 a5 *
+
