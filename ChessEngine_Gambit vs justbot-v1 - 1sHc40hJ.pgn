@@ -1,0 +1,38 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/game/1sHc40hJ"]
+[Date "2026.11.25"]
+[Round "-"]
+[White "ChessEngine_Gambit"]
+[Black "justbot-v1"]
+[Result "*"]
+[GameId "1sHc40hJ"]
+[UTCDate "2026.11.25"]
+[UTCTime "11:53:59"]
+[WhiteElo "2650"]
+[BlackElo "2863"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+3"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Steinitz Variation"]
+[Termination "Unterminated"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. d4 { [%clk 0:03:03] }
+2... d5 { [%clk 0:03:01] } 3. Nc3 { [%clk 0:03:05] } 3... Nf6
+{ [%clk 0:03:01] } 4. e5 { [%clk 0:03:08] } 4... Nfd7 { [%clk 0:02:59] } 5. f4
+{ [%clk 0:03:11] } 5... c5 { [%clk 0:02:59] } 6. Nf3 { [%clk 0:03:14] } 6...
+Nc6 { [%clk 0:02:55] } 7. Be3 { [%clk 0:03:16] } 7... a6 { [%clk 0:02:48] } 8.
+Qd2 { [%clk 0:03:19] } 8... b5 { [%clk 0:02:40] } 9. a3 { [%clk 0:03:22] } 9...
+Qa5 { [%clk 0:02:39] } 10. Be2 { [%clk 0:03:20] } ( 10. Be2 b4 11. Nb1 Be7 12.
+c3 O-O 13. O-O b3 14. Qe1 c4 15. Nbd2 Nb6 16. Bd1 Na4 17. Rf2 Rb8 18. Nf1 Bd7
+19. Ng3 Bd8 { [%eval -0.06,20] } ) 10... b4 { [%clk 0:02:33] } 11. Nd1
+{ [%clk 0:03:12] } ( 11. Nd1 bxa3 12. Qxa5 Nxa5 13. dxc5 { [%eval 0.00,26] } )
+11... Be7 { [%clk 0:02:28] } 12. c3 { [%clk 0:03:10] } ( 12. c3 bxc3 13. Nxc3
+cxd4 14. Nxd4 Nxd4 15. Bxd4 { [%eval 0.20,21] } ) 12... bxa3 { [%clk 0:02:22] }
+13. Rxa3 { [%clk 0:03:08] } ( 13. Rxa3 Qc7 14. dxc5 Nxc5 15. b4 Ne4 16. Qb2 O-O
+17. O-O Bb7 18. Ra1 Rfc8 19. Ra2 Bf8 20. Nd4 Ne7 21. Ra3 g6 22. Qa1 Nf5 23.
+Nxf5 { [%eval -0.07,21] } ) 13... Qc7 { [%clk 0:02:20] } 14. dxc5 ( 14. dxc5
+Nxc5 15. Ra2 Nb3 16. Qc2 { [%eval -0.23,25] } ) 14... Nxc5 15. Ra2 ( 15. Ra2
+O-O 16. Qc2 Bd7 17. b4 { [%eval -0.23,27] } ) *
+
